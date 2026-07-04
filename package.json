@@ -1,6 +1,6 @@
 {
-  "name": "chama-adega-v3",
-  "version": "3.0.0",
+  "name": "chama-adega-v31-estavel",
+  "version": "3.1.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
@@ -10,7 +10,6 @@
   "dependencies": {
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
-    "expo-av": "~14.0.7",
     "react": "18.2.0",
     "react-native": "0.74.5",
     "@react-native-async-storage/async-storage": "1.23.1"

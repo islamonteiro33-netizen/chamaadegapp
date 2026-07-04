@@ -1,3 +1,3 @@
-# Chama Adega V3
+# Chama Adega V3.1 Estável
 
-Tela principal focada em pedidos em espera e em percurso. Finalizados somem da tela principal.
+Corrige tela branca ao tocar no pedido. Tela principal só com pedidos em espera e em percurso.
