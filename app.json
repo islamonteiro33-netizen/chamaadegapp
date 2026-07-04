@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Chama Adega",
+    "slug": "chama-adega-v21",
+    "version": "2.1.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#08090C"
+    },
+    "android": {
+      "package": "com.chamabebidas.adega",
+      "versionCode": 3,
+      "adaptiveIcon": {
+        "foregroundImage": "./adaptive-icon.png",
+        "backgroundColor": "#08090C"
+      },
+      "permissions": [
+        "INTERNET",
+        "VIBRATE"
+      ]
+    }
+  }
+}
