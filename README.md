@@ -1,3 +1,3 @@
-# Chama Adega V3.1 Estável
+# Chama Adega V3.2
 
-Corrige tela branca ao tocar no pedido. Tela principal só com pedidos em espera e em percurso.
+Sem popup de erro ao aceitar/rejeitar. Produtos, financeiro e perfil completos.

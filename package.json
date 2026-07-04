@@ -1,6 +1,6 @@
 {
-  "name": "chama-adega-v31-estavel",
-  "version": "3.1.0",
+  "name": "chama-adega-v32",
+  "version": "3.2.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
