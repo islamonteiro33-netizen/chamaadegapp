@@ -1,3 +1,3 @@
-# Chama Adega V2.1
+# Chama Adega V3
 
-Som de novo pedido, número de segurança para liberar retirada, produtos com excluir.
+Tela principal focada em pedidos em espera e em percurso. Finalizados somem da tela principal.

@@ -1,6 +1,6 @@
 {
-  "name": "chama-adega-v21",
-  "version": "2.1.0",
+  "name": "chama-adega-v3",
+  "version": "3.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
