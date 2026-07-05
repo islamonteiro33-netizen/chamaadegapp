@@ -1,3 +1,3 @@
-# Chama Adega V4
+# Chama Adega V5
 
-Tema claro profissional para Codemagic.
+Melhorias: cronômetro, alerta de estoque, ranking, pausar adega, financeiro melhor e pedidos em destaque.
