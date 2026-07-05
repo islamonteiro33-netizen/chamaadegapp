@@ -1,3 +1,3 @@
-# Chama Adega V5
+# Chama Adega V6
 
-Melhorias: cronômetro, alerta de estoque, ranking, pausar adega, financeiro melhor e pedidos em destaque.
+Editar produto, histórico, modal de novo pedido, imprimir pedido e perfil completo.
