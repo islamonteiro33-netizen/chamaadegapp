@@ -1,6 +1,6 @@
 workflows:
   android-apk:
-    name: Chama Adega V3.2 APK
+    name: Chama Adega V4 APK
     max_build_duration: 60
     instance_type: mac_mini_m2
     environment:

@@ -1,3 +1,3 @@
-# Chama Adega V3.2
+# Chama Adega V4
 
-Sem popup de erro ao aceitar/rejeitar. Produtos, financeiro e perfil completos.
+Tema claro profissional para Codemagic.
