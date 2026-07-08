@@ -1,3 +1,3 @@
-# Chama Adega V6
+# Chama Adega V7 Premium
 
-Editar produto, histórico, modal de novo pedido, imprimir pedido e perfil completo.
+Visual premium com cabeçalho moderno, cards maiores, produtos e financeiro refinados.
