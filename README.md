@@ -1,3 +1,3 @@
-# Chama Adega V7 Premium
+# Chama Adega V9 AI
 
-Visual premium com cabeçalho moderno, cards maiores, produtos e financeiro refinados.
+Financeiro corrigido, IA de sugestões, mais vendidos em Produtos e visual premium.

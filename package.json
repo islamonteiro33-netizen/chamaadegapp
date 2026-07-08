@@ -1,6 +1,6 @@
 {
-  "name": "chama-adega-v7-premium",
-  "version": "7.0.0",
+  "name": "chama-adega-v9-ai",
+  "version": "9.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
