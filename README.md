@@ -1,3 +1,3 @@
-# Chama Adega V9 AI
+# Chama Adega V9.1 Menu
 
-Financeiro corrigido, IA de sugestões, mais vendidos em Produtos e visual premium.
+Rodapé com 3 opções grandes e menu lateral premium.
